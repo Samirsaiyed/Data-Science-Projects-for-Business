@@ -67,14 +67,14 @@ Prerequisites
 
 ### Installation
 Clone this repository to your local machine:
-git clone https://github.com/Samirsaiyed/Data-Science-for-Business.git
+- git clone https://github.com/Samirsaiyed/Data-Science-for-Business.git
 
 Navigate to the specific project folder:
-cd Data-Science-for-Business/HR_Department
+- cd Data-Science-for-Business/HR_Department
 
 Install the required dependencies:
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 Usage
-Follow the detailed instructions in each project's README to reproduce the analysis and results.
+- Follow the detailed instructions in each project's README to reproduce the analysis and results.
 
