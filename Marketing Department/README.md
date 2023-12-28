@@ -1,7 +1,7 @@
-# CustomerInsights360
+# Customer Insights360
 
 ## Introduction
-CustomerInsights360 is a data science project aimed at enhancing the marketing strategies of a bank in New York City through the application of data science techniques. The primary objective is to perform customer segmentation using advanced methodologies such as K-means clustering, PCA (Principal Component Analysis), and Autoencoders. The insights gained from segmentation will empower the marketing team to launch targeted advertising campaigns tailored to specific customer needs.
+Customer Insights360 is a data science project aimed at enhancing the marketing strategies of a bank in New York City through the application of data science techniques. The primary objective is to perform customer segmentation using advanced methodologies such as K-means clustering, PCA (Principal Component Analysis), and Autoencoders. The insights gained from segmentation will empower the marketing team to launch targeted advertising campaigns tailored to specific customer needs.
 
 ## Project Setup
 - **Dependencies:** List of necessary libraries and versions required for the project.
