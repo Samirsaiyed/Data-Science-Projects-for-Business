@@ -22,8 +22,8 @@ Key Skills
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - K-means Clustering
-- Autoencoder
 - Dimension Reduction (PCA)
+- Autoencoder
 
 ### 3. Sales Department
 Objective
