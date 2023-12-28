@@ -21,8 +21,10 @@ Optimizing marketing strategies through customer segmentation and behavior analy
 Key Skills
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
+- Data Extraction
 - K-means Clustering
 - Dimension Reduction (PCA)
+- 
 - Autoencoder
 
 ### 3. Sales Department
@@ -30,8 +32,11 @@ Objective
 Developing time series forecasting models for predicting future product prices.
 
 Key Skills
-- Time Series Analysis
-- Forecasting Models
+- Exploratory Data Analysis (EDA)
+- Data Preprocessing
+- Data Visualization
+- Time Series Forcasting
+- Facebook Prophet 
 
 ### 4. Operations Department
 Objective
