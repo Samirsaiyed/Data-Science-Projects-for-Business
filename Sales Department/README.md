@@ -1,4 +1,4 @@
-# SalesProphet: Forecasting Future Daily Sales with Facebook Prophet
+# Forecasting Future Daily Sales
 
 ## Project Overview
 
