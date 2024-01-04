@@ -1,5 +1,5 @@
 
-# CustomerSentimentAnalyzer: Predicting Customer Satisfaction with NLP
+# Customer Sentiment Analyzer
 
 ## Project Overview
 
