@@ -33,6 +33,7 @@ Developing time series forecasting models for predicting future product prices.
 
 Key Skills
 - Exploratory Data Analysis (EDA)
+- Data Cleaning
 - Data Preprocessing
 - Data Visualization
 - Time Series Forcasting
@@ -43,9 +44,11 @@ Objective
 Automating and optimizing disease detection processes at a hospital using deep learning.
 
 Key Skills
-- Deep Learning Models
-- Image Processing
-- Automation
+- cv2
+- Data Visualization
+- tensorflow
+- RestNet50
+- Deep learning techniques
 
 ### 5. Public Relations Department
 Objective
@@ -53,16 +56,13 @@ Analyzing customer reviews on social media to understand sentiment.
 
 Key Skills
 - Natural Language Processing (NLP)
+- Data Visualization
+- Word Cloud
+- Data Cleaning
+- Naive Bayes Classifier
+- Logistic Regression
 - Sentiment Analysis
 
-### 6. Production/Maintenance Departments
-Objective
-Developing defect detection, classification, and localization models.
-
-Key Skills
-- Computer Vision
-- Image Classification
-- Model Interpretability
 
 ### Getting Started
 Prerequisites
